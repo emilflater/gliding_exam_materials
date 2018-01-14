@@ -32,7 +32,7 @@ Examples:
 The Earth's atmosphere exerts (apply) a pressure on the surface. Pressure is measured in hectoPascals (hPa), also called millibars. As air warms, it ascends leading to low pressure at the surface. As air cools, it descends leading to high pressure at the surface.
 
 
-### Classification by air movment
+#### Classification by air movment
 
 |         | High pressure | Low pressure |
 | ------------- |:------------- |:------------ |
@@ -40,7 +40,7 @@ The Earth's atmosphere exerts (apply) a pressure on the surface. Pressure is mea
 | **Rotation**      | clockwise   | anticlockwise |
 
 
-### Classification by isobars shape
+#### Classification by isobars shape
 
 |                        | High pressure | Low pressure |
 | ---------------------- |:------------- |:------------ |
@@ -48,4 +48,6 @@ The Earth's atmosphere exerts (apply) a pressure on the surface. Pressure is mea
 | **Oblong or elongate** | troughs (channel, gutter) | ridges |
 
 
-![GitHub Logo](/imgs/high-low-pressure-systems.png)
+#### Schema
+
+![High vs low pressure systems](/imgs/high-low-pressure-systems.png)
