@@ -31,7 +31,7 @@ Examples:
 
 The Earth's atmosphere exerts (apply) a pressure on the surface. Pressure is measured in hectoPascals (hPa), also called millibars. As air warms, it ascends leading to low pressure at the surface. As air cools, it descends leading to high pressure at the surface.
 
-#### Classification by air movment
+## Classification by air movment
 
 |         | High pressure | Low pressure |
 | ------------- |:------------- |:------------ |
@@ -40,7 +40,7 @@ The Earth's atmosphere exerts (apply) a pressure on the surface. Pressure is mea
 | **Condensation**       | down => dry weather and mostly clear skies | up => cloud formation and ultimately precipitation | 
 
 
-#### Classification by isobars shape
+## Classification by isobars shape
 
 |                        | High pressure | Low pressure |
 | ---------------------- |:------------- |:------------ |
@@ -48,12 +48,12 @@ The Earth's atmosphere exerts (apply) a pressure on the surface. Pressure is mea
 | **Oblong or elongate** | ridges        | troughs (channel, gutter) |
 
 
-#### Schema
+### Cyclone vs anticyclone diagram
 
 ![High vs low pressure systems](/imgs/high-low-pressure-systems.png)
 
 
-## Ridges and Troughs
+# Ridges and Troughs
 
 **Ridge**, with the barometer rising, has weather similar to that in an anticyclone. It is a wedge shaped area of high pressure between two areas of low pressure. It brings improving weather and clearing skies. It can lead to good gliding conditions particularly if the airmass is polar or returning polar maritime.
 
