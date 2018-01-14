@@ -48,4 +48,4 @@ The Earth's atmosphere exerts (apply) a pressure on the surface. Pressure is mea
 | **Oblong or elongate** | troughs (channel, gutter) | ridges |
 
 
-![GitHub Logo](/imgs/high-low-pressure-systems.png = 20px)
+![GitHub Logo](/imgs/high-low-pressure-systems.png)
