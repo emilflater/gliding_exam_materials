@@ -73,3 +73,9 @@ The geostrophic wind:
 - result from an exact balance between the Coriolis force and the pressure gradient force (this condition is called **geostrophic balance**),
 - is directed parallel to isobars,
 - the true wind almost always differs from the geostrophic wind (still it is a valuable approximation).
+
+
+<p align="center">
+![Geostrophic wind diagram](/imgs/geostrophic-wind.gif)
+</p
+
