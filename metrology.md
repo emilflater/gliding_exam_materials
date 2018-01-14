@@ -51,13 +51,16 @@ The Earth's atmosphere exerts (pl: wywiera) a pressure on the surface. Pressure 
 
 A Trough, with the barometer falling as it approaches, has characteristics similar to those of a depression. It is an elongated area of low pressure without distinctive fronts but often with cloud and rain. As this system moves West to East the local pressure will first fall and then rise again as the system passes. It may be indicated on a synoptic chart by a line. Gliding is likely to be poor.
 
-# Geostrophic wind
+# Pressure Gradient
 
-- **Pressure Gradient** describes direction and the pressure gain between two points (expressed - Pa/m). As it desribes pressure gain/increase, it points from low towards high pressure zone. Pressure gradient can be seen as two components: the vertical and the horizontal pressure gradient. 
+**Pressure Gradient** describes direction and the pressure gain between two points (expressed - Pa/m). As it desribes pressure gain/increase, it points from low towards high pressure zone. Pressure gradient can be seen as two components, namele the vertical and the horizontal pressure gradients.
 
 - **Vertical Pressure Gradient** is the main component and it is pointing roughly downwards (paralle to gravity force).
 
 - **Horizontal Pressure Gradient** is relatively small but critical component, as it is largely responsible for the wind circulation. 
 
-- **Pressure Gradient Force** is one of the main forces acting on the air to make it move as wind. It points from high towards low pressure zone (opposite direction to the pressure gradient). 
+# Pressure Gradient Force
 
+**Pressure Gradient Force** is one of the main forces acting on the air to make it move as wind. It points from high towards low pressure zone (opposite direction to the pressure gradient). 
+
+# Geostrophic wind
