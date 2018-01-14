@@ -1,5 +1,3 @@
-Radiation
-
 # Heat transfer
 
 - **Convection** the movement of hotter and therefore less dense material up, and colder, denser material down - under the 
@@ -13,7 +11,9 @@ influence of gravity, which consequently results in transfer of heat.
 - **Bubbles** are formed by the heated ground, once they absorbe enough heat (energy) they start to rise. As they travel up, they expand.
 Bubbles stop to rise once their temperature is equal to the surrounding air temperature.
 
-- **Adiabatic expansion** while bubbles of heated air rise and expand, they also progresivley cool down.
+- **Adiabatic expansion** while bubble of heated air rises, it progressively expands and cools down.
+
+- **Adiabatic compression** while bubble of cold air sinks, it progressively shirnks and warms up.
 
 
 # Coriolis Force
