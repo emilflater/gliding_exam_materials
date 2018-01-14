@@ -31,12 +31,17 @@ Examples:
 
 The Earth's atmosphere exerts (apply) a pressure on the surface. Pressure is measured in hectoPascals (hPa), also called millibars. As air warms, it ascends leading to low pressure at the surface. As air cools, it descends leading to high pressure at the surface.
 
+### Classification by air movment
+
 |         | High pressure | Low pressure |
 | ------------- |:------------- |:------------ |
 | **Air**           | sink  | rise    |
 | **Rotation**      | clockwise   | anticlockwise |
 
-|         | High pressure | Low pressure |
-| **Circular shape** | anticyclone | cyclone       |
-| **oblong or elongate** | troughs (channel, gutter) | ridges       |
+### Classification by isobars shape
+
+|                        | High pressure | Low pressure |
+| ---------------------- |:------------- |:------------ |
+| **Circular**           | anticyclone   | cyclone       |
+| **Oblong or elongate** | troughs (channel, gutter) | ridges |
 
