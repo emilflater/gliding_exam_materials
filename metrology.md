@@ -53,12 +53,11 @@ A Trough, with the barometer falling as it approaches, has characteristics simil
 
 # Geostrophic wind
 
-**Pressure Gradient** describes direction and the pressure gain between two points (expressed - Pa/m). As it desribes pressure gain/increase, it points from low towards high pressure zone. Pressure gradient can be seen as two components: the vertical and the horizontal pressure gradient. 
+- **Pressure Gradient** describes direction and the pressure gain between two points (expressed - Pa/m). As it desribes pressure gain/increase, it points from low towards high pressure zone. Pressure gradient can be seen as two components: the vertical and the horizontal pressure gradient. 
 
-**Vertical Pressure Gradient** is the main component and it is pointing roughly downwards (paralle to gravity force).
+- **Vertical Pressure Gradient** is the main component and it is pointing roughly downwards (paralle to gravity force).
 
-**Horizontal Pressure Gradient** is relatively small but critical component, as it is largely responsible for the wind circulation. 
+- **Horizontal Pressure Gradient** is relatively small but critical component, as it is largely responsible for the wind circulation. 
 
-**Pressure Gradient Force** is one of the main forces acting on the air to make it move as wind. It points from high towards low pressure zone (opposite direction to the pressure gradient). 
-
+- **Pressure Gradient Force** is one of the main forces acting on the air to make it move as wind. It points from high towards low pressure zone (opposite direction to the pressure gradient). 
 
