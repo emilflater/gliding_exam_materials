@@ -29,14 +29,14 @@ Examples:
 
 # High vs low pressure systems
 
-The Earth's atmosphere exerts (pl: wywiera) a pressure on the surface. Pressure is measured in hectoPascals (hPa), also called millibars. As air warms, it ascends leading to low pressure at the surface. As air cools, it descends leading to high pressure at the surface.
+The Earth's atmosphere exerts (pl: wywiera) a pressure on the surface. Pressure is measured in hectoPascals (hPa), also called millibars. As air warms, it ascends (air is sucked away from the surface) leading to low pressure at the surface. As air cools, it descends (air is pushed onto the surface) leading to high pressure at the surface.
 
-|         | High pressure | Low pressure |
-| ------------- |:------------- |:------------ |
-| **Air**           | sink  | rise    |
-| **Rotation**      | clockwise   | anticlockwise |
-| **Condensation**       | down => dry weather and mostly clear skies | up => cloud formation and ultimately precipitation | 
-| **Isobar circular shape**           | anticyclone   | cyclone       |
+|                               | High pressure | Low pressure              |
+| ----------------------------- |:------------- |:------------------------- |   
+| **Air**                       | sink          | rise                      |
+| **Rotation**                  | clockwise     | anticlockwise             |
+| **Condensation**              | goes down => dry weather and mostly clear skies | up => cloud formation and ultimately precipitation | 
+| **Isobar circular shape**     | anticyclone   | cyclone                   |
 | **Isobar oblong or elongate** | ridges        | troughs (channel, gutter) |
 
 
