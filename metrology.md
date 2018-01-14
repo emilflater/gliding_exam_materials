@@ -53,19 +53,19 @@ A cyclone — and its counterpart, an anticyclone — is a large-scale system of
 <p></p>
 
 <p align="center">
-  <img width="200" src="/imgs/cyclone-anticyclone-diagram-2.png">
+  <img width="auto" src="/imgs/cyclone-anticyclone-diagram.png">
 </p>
 
 <br/>
 
 <p align="center">
-  <img width="200" src="/imgs/cyclone-anticyclone-diagram.png">
+  <img width="500" src="/imgs/cyclone-anticyclone-diagram-2.png">
 </p>
 
 <br/>
 
 <p align="center">
-  <img width="200" src="/imgs/cyclone-anticyclone-movement.png">
+  <img width="auto" src="/imgs/cyclone-anticyclone-movement.png">
 </p>
 
 <br/>
