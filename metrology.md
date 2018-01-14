@@ -44,7 +44,7 @@ The Earth's atmosphere exerts (pl: wywiera) a pressure on the surface. Pressure 
 
 # Cyclones and Anticyclones
 
-A cyclone — and its counterpart, an anticyclone — is a large-scale system of air circulation in the atmosphere in the zones between the equator and either of the poles. It can be considered as either producing or resulting from differences in air pressure in those zones.
+A cyclone — and its counterpart, an anticyclone — is a large-scale system of air circulation in the atmosphere which can be considered as either producing or resulting from differences in air pressure in high and low pressure zones.
 
 - **Cyclone**, the central air pressure is lower than that of the surrounding environment, and the airflow is counterclockwise in the Northern Hemisphere. Characterized by low-level convergence (pl: zbieżność, schodzenie się) and ascending air within the system.
 
