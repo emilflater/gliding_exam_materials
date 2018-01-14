@@ -1,3 +1,5 @@
+
+
 # Heat transfer
 
 - **Convection** the movement of hotter and therefore less dense material up, and colder, denser material down - under the 
@@ -42,7 +44,9 @@ The Earth's atmosphere exerts (pl: wywiera) a pressure on the surface. Pressure 
 
 ## Cyclone vs anticyclone diagram
 
-![High vs low pressure systems](/imgs/high-low-pressure-systems.png)
+<p align="center">
+  <img  src="/imgs/high-low-pressure-systems.png">
+</p>
 
 
 # Ridges and Troughs
@@ -74,8 +78,6 @@ The geostrophic wind:
 - is directed parallel to isobars,
 - the true wind almost always differs from the geostrophic wind (still it is a valuable approximation).
 
-
 <p align="center">
-![Geostrophic wind diagram](/imgs/geostrophic-wind.gif)
-</p
-
+  <img  src="/imgs/geostrophic-wind.gif">
+</p>
