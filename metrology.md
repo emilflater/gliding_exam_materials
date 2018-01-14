@@ -37,12 +37,18 @@ The Earth's atmosphere exerts (pl: wywiera) a pressure on the surface. Pressure 
 | ----------------------------- |:------------- |:------------------------- |   
 | **Air**                       | sink          | rise                      |
 | **Rotation**                  | clockwise     | anticlockwise             |
-| **Condensation**              | goes down => dry weather and mostly clear skies | goes up => cloud formation and ultimately precipitation | 
 | **Isobar circular shape**     | anticyclone   | cyclone                   |
 | **Isobar oblong or elongate** | ridges        | troughs (channel, gutter) |
+| **Condensation**              | goes down => dry weather and mostly clear skies | goes up => cloud formation and ultimately precipitation | 
 
 
-## Cyclone vs anticyclone diagram
+# Cyclones and Anticyclones
+
+A cyclone — and its counterpart, an anticyclone — is a large-scale system of air circulation in the atmosphere in the zones between the equator and either of the poles. It can be considered as either producing or resulting from differences in air pressure in those zones.
+
+- **Cyclone**, the central air pressure is lower than that of the surrounding environment, and the airflow is counterclockwise in the Northern Hemisphere. Characterized by low-level convergence (pl: zbieżność, schodzenie się) and ascending air within the system.
+
+- **Anticyclone**, the central air pressure is higher than that of its surroundings, and the airflow is clockwise in the Northern Hemisphere. Characterized by low-level divergence (pl: rozbieżność) and subsiding (pl: zapadajać) air.
 
 <p align="center">
   <img  src="/imgs/high-low-pressure-systems.png">
