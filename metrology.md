@@ -90,7 +90,7 @@ In the Northern Hemisphere, if a person stands with his back to the wind, the at
 
 A cyclone — and its counterpart, an anticyclone — is a large-scale system of air circulation in the atmosphere which can be considered as either producing or resulting from differences in air pressure in high and low pressure zones.
 
-- **Cyclone**, the central air pressure is lower than that of the surrounding environment, and the airflow is counterclockwise in the Northern Hemisphere. Characterized by low-level convergence (pl: zbieżność, schodzenie się) and ascending air within the system.
+- **Cyclone** or **Depression**, the central air pressure is lower than that of the surrounding environment, and the airflow is counterclockwise in the Northern Hemisphere. Characterized by low-level convergence (pl: zbieżność, schodzenie się) and ascending air within the system.
 
 - **Anticyclone**, the central air pressure is higher than that of its surroundings, and the airflow is clockwise in the Northern Hemisphere. Characterized by low-level divergence (pl: rozbieżność) and subsiding (pl: zapadajać) air.
 
