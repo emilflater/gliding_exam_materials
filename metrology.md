@@ -7,6 +7,7 @@ influence of gravity, which consequently results in transfer of heat.
 
 - **Radiation** the emission of energy, which consequently results in transfer of energy (heat in our case).
 
+<br/>
 
 # Air bubbles 
 
@@ -17,6 +18,7 @@ Bubbles stop to rise once their temperature is equal to the surrounding air temp
 
 - **Adiabatic compression** while bubble of cold air sinks, it progressively shrinks and warms up (shrinks => more dense => temp rises).
 
+<br/>
 
 # Coriolis Force
 
@@ -28,6 +30,7 @@ Examples:
 - surface ocean currents (as they are driven by the movement of wind over the water's surface),
 - cyclones and anticyclones rotations.
 
+<br/>
 
 # High vs low pressure zones
 
@@ -40,6 +43,46 @@ The Earth's atmosphere exerts (pl: wywiera) a pressure on the surface. Pressure 
 | **Isobar circular shape**     | anticyclone   | cyclone                   |
 | **Isobar oblong or elongate** | ridges        | troughs (channel, gutter) |
 | **Condensation**              | goes down => dry weather and mostly clear skies | goes up => cloud formation and ultimately precipitation | 
+
+<br/>
+
+
+# Pressure Gradient
+
+**Pressure Gradient** describes direction and the pressure gain over a certain distance (expressed - Pascal/meter). As it describes pressure gain/increase, it points from low towards high pressure zone. Pressure gradient can be seen as two components, namely the vertical and the horizontal pressure gradients.
+
+- **Vertical Pressure Gradient** is the main component and it is pointing roughly downwards (parallel to gravity force).
+
+- **Horizontal Pressure Gradient** is relatively small but critical component, as it is largely responsible for the wind circulation. 
+
+<br/>
+
+# Pressure Gradient Force
+
+**Pressure Gradient Force** is one of the main forces acting on the air to make it move as wind. It points from high towards low pressure zones (opposite direction to the pressure gradient). 
+
+<br/>
+
+# Geostrophic wind
+An air parcel initially at rest will move from high pressure to low pressure zone because of the pressure gradient force. As it moves, it is deflected by the Coriolis force to the right in the northern hemisphere. When the wind gains speed, the deflection increases until the Coriolis force equals the pressure gradient force (2000 ft). At this point, the wind will be blowing parallel to the isobars. When this happens, the wind is referred to as geostrophic.
+
+The geostrophic wind:
+- result from an exact balance between the Coriolis force and the pressure gradient force (this condition is called **geostrophic balance**),
+- is directed parallel to isobars,
+- the true wind almost always differs from the geostrophic wind (still it is a valuable approximation).
+
+<p align="center">
+  <img  src="/imgs/geostrophic-wind.gif">
+</p>
+
+<br/>
+
+# Buys Ballot Law
+In the Northern Hemisphere, if a person stands with his back to the wind, the atmospheric pressure is low to the left, high to the right.
+
+<p align="center">
+  <img width="400" src="/imgs/buys-ballot-law.png">
+</p>
 
 
 # Cyclones and Anticyclones
@@ -70,6 +113,7 @@ A cyclone — and its counterpart, an anticyclone — is a large-scale system of
 
 <br/>
 
+<br/>
 
 # Ridges and Troughs
 
@@ -103,37 +147,5 @@ A cyclone — and its counterpart, an anticyclone — is a large-scale system of
 
 A Trough, with the barometer falling as it approaches, has characteristics similar to those of a depression. It is an elongated area of low pressure without distinctive fronts but often with cloud and rain. As this system moves West to East the local pressure will first fall and then rise again as the system passes. It may be indicated on a synoptic chart by a line. Gliding is likely to be poor.
 
-
-# Pressure Gradient
-
-**Pressure Gradient** describes direction and the pressure gain over a certain distance (expressed - Pascal/meter). As it describes pressure gain/increase, it points from low towards high pressure zone. Pressure gradient can be seen as two components, namely the vertical and the horizontal pressure gradients.
-
-- **Vertical Pressure Gradient** is the main component and it is pointing roughly downwards (parallel to gravity force).
-
-- **Horizontal Pressure Gradient** is relatively small but critical component, as it is largely responsible for the wind circulation. 
-
-
-# Pressure Gradient Force
-
-**Pressure Gradient Force** is one of the main forces acting on the air to make it move as wind. It points from high towards low pressure zones (opposite direction to the pressure gradient). 
-
-
-# Geostrophic wind
-An air parcel initially at rest will move from high pressure to low pressure zone because of the pressure gradient force. As it moves, it is deflected by the Coriolis force to the right in the northern hemisphere. When the wind gains speed, the deflection increases until the Coriolis force equals the pressure gradient force (2000 ft). At this point, the wind will be blowing parallel to the isobars. When this happens, the wind is referred to as geostrophic.
-
-The geostrophic wind:
-- result from an exact balance between the Coriolis force and the pressure gradient force (this condition is called **geostrophic balance**),
-- is directed parallel to isobars,
-- the true wind almost always differs from the geostrophic wind (still it is a valuable approximation).
-
-<p align="center">
-  <img  src="/imgs/geostrophic-wind.gif">
-</p>
-
-# Buys Ballot Law
-In the Northern Hemisphere, if a person stands with his back to the wind, the atmospheric pressure is low to the left, high to the right.
-
-<p align="center">
-  <img  src="/imgs/buys-ballot-law.png">
-</p>
+<br/>
 
