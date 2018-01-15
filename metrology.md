@@ -190,9 +190,9 @@ There are six main types of air masses that affect the British Isles. We classif
 - maritime (moist).
 
 2. the particular region in which they form:
--- arctic or antarctic (cold), 
--- tropical (warm),
--- polar (cold).
+⋅⋅* arctic or antarctic (cold), 
+--* tropical (warm),
+--* polar (cold).
 
 
 
