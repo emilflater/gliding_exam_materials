@@ -82,7 +82,13 @@ A cyclone — and its counterpart, an anticyclone — is a large-scale system of
 <p></p>
 
 <p align="center">
-  <img width="auto" src="/imgs/ridge-trough-1.jpg">
+  <img width="500" src="/imgs/ridge-trough-map.png">
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="500" src="/imgs/ridge-trough-1.jpg">
 </p>
 
 <br/>
@@ -90,13 +96,7 @@ A cyclone — and its counterpart, an anticyclone — is a large-scale system of
 <p align="center">
   <img width="500" src="/imgs/ridge-trough-2.jpg">
 </p>
-
-<br/>
-
-<p align="center">
-  <img width="auto" src="/imgs/ridge-trough-map.png">
-</p>
-
+ 
 <br/>
 
 **Ridge**, with the barometer rising, has weather similar to that in an anticyclone. It is a wedge shaped area of high pressure between two areas of low pressure. It brings improving weather and clearing skies. It can lead to good gliding conditions particularly if the air mass is polar or returning polar maritime.
