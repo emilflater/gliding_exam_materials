@@ -84,6 +84,7 @@ In the Northern Hemisphere, if a person stands with his back to the wind, the at
   <img width="400" src="/imgs/buys-ballot-law.png">
 </p>
 
+<br/>
 
 # Cyclones and Anticyclones
 
