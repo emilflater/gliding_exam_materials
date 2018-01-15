@@ -1,3 +1,3 @@
-# gliding_exam_materials
+# Bronze Exame Refresher
 
-[Metrology](metrology.md)
+[Metrology](metrology/index.md)
