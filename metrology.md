@@ -166,7 +166,7 @@ A cyclone — and its counterpart, an anticyclone — is a large-scale system of
 <br/>
 
 <p align="center">
-  <img width="auto" src="/imgs/col.jpg">
+  <img width="auto" src="/imgs/col.png">
 </p>
  
 <br/>
