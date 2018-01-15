@@ -158,3 +158,15 @@ A cyclone — and its counterpart, an anticyclone — is a large-scale system of
 
 <br/>
 
+
+# Col
+
+**Col** is an area of slack pressure between two areas of low pressure and two areas of high pressure. Winds are likely to be light and variable in direction.
+
+<br/>
+
+<p align="center">
+  <img width="auto" src="/imgs/col.jpg">
+</p>
+ 
+<br/>
