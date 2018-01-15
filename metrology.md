@@ -127,7 +127,13 @@ A cyclone — and its counterpart, an anticyclone — is a large-scale system of
 <p></p>
 
 <p align="center">
-  <img width="500" src="/imgs/ridge-trough-map.png">
+  <img width="500" src="/imgs/ridge-trough-map-1.png">
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="500" src="/imgs/ridge-trough-map-2.png">
 </p>
 
 <br/>
@@ -144,9 +150,11 @@ A cyclone — and its counterpart, an anticyclone — is a large-scale system of
  
 <br/>
 
+====== verify 
+
 **Ridge**, with the barometer rising, has weather similar to that in an anticyclone. It is a wedge shaped area of high pressure between two areas of low pressure. It brings improving weather and clearing skies. It can lead to good gliding conditions particularly if the air mass is polar or returning polar maritime.
 
-A Trough, with the barometer falling as it approaches, has characteristics similar to those of a depression. It is an elongated area of low pressure without distinctive fronts but often with cloud and rain. As this system moves West to East the local pressure will first fall and then rise again as the system passes. It may be indicated on a synoptic chart by a line. Gliding is likely to be poor.
+**Trough**, with the barometer falling as it approaches, has characteristics similar to those of a depression. It is an elongated area of low pressure without distinctive fronts but often with cloud and rain. As this system moves West to East the local pressure will first fall and then rise again as the system passes. It may be indicated on a synoptic chart by a line. Gliding is likely to be poor.
 
 <br/>
 
