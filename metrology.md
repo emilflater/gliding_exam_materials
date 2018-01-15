@@ -170,3 +170,18 @@ A cyclone — and its counterpart, an anticyclone — is a large-scale system of
 </p>
  
 <br/>
+
+# Anabatics and Katabiatic winds
+
+- **Anabatic** wind is a warm wind which blows up a steep slope or mountain side, driven by heating of the slope. It is also known as an upslope flow. These winds typically occur during the daytime in calm sunny weather. 
+
+- **Katabatic** wind is a wind blows down a slope due to gravity. It when the highlands is cooled and the air in contact with these highlands is also cooled. Therefore it becomes denser than the air at the same elevation but away from the slope - so it begins to flow downhill. This wind is also called downslope wind, or gravity wind.
+
+<br/>
+
+<p align="center">
+  <img width="auto" src="/imgs/anabatic-katabatic-winds.jpg">
+</p>
+ 
+<br/>
+
