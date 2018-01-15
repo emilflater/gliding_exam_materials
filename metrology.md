@@ -1,5 +1,3 @@
-
-
 # Heat transfer
 
 - **Convection** the movement of hotter and therefore less dense material up, and colder, denser material down - under the 
@@ -178,35 +176,3 @@ A cyclone — and its counterpart, an anticyclone — is a large-scale system of
 </p>
  
 <br/>
-
-# Air masses
-
-**Air mass** is a volume of air defined by its temperature and humidity.
-
-There are six main types of air masses that affect the British Isles. We classify them depending on:
-
-1. whether they originate over land or sea:
--- continental (dry),
-- maritime (moist).
-
-2. the particular region in which they form:
-⋅⋅* arctic or antarctic (cold), 
---* tropical (warm),
---* polar (cold).
-
-
-
- Air masses cover many hundreds or thousands of square miles, and adapt to the characteristics of the surface below them. They are classified according to latitude and their continental or maritime source regions. Colder air masses are termed polar or arctic, while warmer air masses are deemed tropical. Continental and superior air masses are dry while maritime and monsoon air masses are moist.
-
-
-<br/>
-
-<p align="center">
-  <img width="auto" src="/imgs/air-masses.png">
-</p>
- 
-<br/>
-
-## Weather fronts
-
-**Weather fronts** separate air masses with different density (temperature and/or moisture) characteristics. Once an air mass moves away from its source region, underlying vegetation and water bodies can quickly modify its character. Classification schemes tackle an air mass' characteristics, as well as modification.
