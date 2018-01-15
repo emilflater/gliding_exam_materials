@@ -1,0 +1,32 @@
+
+
+# Air masses
+
+**Air mass** is a volume of air defined by its temperature and humidity.
+
+There are six main types of air masses that affect the British Isles. We classify them depending on:
+
+1. whether they originate over land or sea:
+    - continental (dry),
+    - maritime (moist).
+
+2. the particular region in which they form:
+   - arctic or antarctic (cold), 
+   - tropical (warm),
+   - polar (cold).
+
+<br/>
+
+<p align="center">
+  <img width="800" src="/imgs/air-masses.png">
+</p>
+ 
+<br/>
+
+
+## Polar Maritime
+
+## Weather fronts
+
+**Weather fronts** separate air masses with different density (temperature and/or moisture) characteristics. Once an air mass moves away from its source region, underlying vegetation and water bodies can quickly modify its character. Classification schemes tackle an air mass' characteristics, as well as modification.
+
