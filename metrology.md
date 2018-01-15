@@ -50,9 +50,25 @@ A cyclone — and its counterpart, an anticyclone — is a large-scale system of
 
 - **Anticyclone**, the central air pressure is higher than that of its surroundings, and the airflow is clockwise in the Northern Hemisphere. Characterized by low-level divergence (pl: rozbieżność) and subsiding (pl: zapadajać) air.
 
+<p></p>
+
 <p align="center">
-  <img  src="/imgs/high-low-pressure-systems.png">
+  <img width="auto" src="/imgs/cyclone-anticyclone-diagram.png">
 </p>
+
+<br/>
+
+<p align="center">
+  <img width="500" src="/imgs/cyclone-anticyclone-diagram-2.png">
+</p>
+
+<br/>
+
+<p align="center">
+  <img width="auto" src="/imgs/cyclone-anticyclone-movement.png">
+</p>
+
+<br/>
 
 
 # Ridges and Troughs
