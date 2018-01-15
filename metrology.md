@@ -88,13 +88,13 @@ A cyclone — and its counterpart, an anticyclone — is a large-scale system of
 <br/>
 
 <p align="center">
-  <img width="500" src="/imgs/ridge-trough-1.jpg">
+  <img width="auto" src="/imgs/ridge-trough-1.jpg">
 </p>
 
 <br/>
 
 <p align="center">
-  <img width="500" src="/imgs/ridge-trough-2.jpg">
+  <img width="auto" src="/imgs/ridge-trough-2.jpg">
 </p>
  
 <br/>
@@ -119,7 +119,7 @@ A Trough, with the barometer falling as it approaches, has characteristics simil
 
 
 # Geostrophic wind
-An air parcel initially at rest will move from high pressure to low pressure zone because of the pressure gradient force. As it moves, it is deflected by the Coriolis force to the right in the northern hemisphere. When the wind gains speed, the deflection increases until the Coriolis force equals the pressure gradient force. At this point, the wind will be blowing parallel to the isobars. When this happens, the wind is referred to as geostrophic.
+An air parcel initially at rest will move from high pressure to low pressure zone because of the pressure gradient force. As it moves, it is deflected by the Coriolis force to the right in the northern hemisphere. When the wind gains speed, the deflection increases until the Coriolis force equals the pressure gradient force (2000 ft). At this point, the wind will be blowing parallel to the isobars. When this happens, the wind is referred to as geostrophic.
 
 The geostrophic wind:
 - result from an exact balance between the Coriolis force and the pressure gradient force (this condition is called **geostrophic balance**),
@@ -129,3 +129,11 @@ The geostrophic wind:
 <p align="center">
   <img  src="/imgs/geostrophic-wind.gif">
 </p>
+
+# Buys Ballot Law
+In the Northern Hemisphere, if a person stands with his back to the wind, the atmospheric pressure is low to the left, high to the right.
+
+<p align="center">
+  <img  src="/imgs/buys-ballot-law.png">
+</p>
+
