@@ -67,7 +67,7 @@ The Earth's atmosphere exerts (pl: wywiera) a pressure on the surface. Pressure 
 
 - **Wind direction** is reported by the direction from which it originates - a northerly wind blows from the north to the south.
 
-- **Wind speed** increases with altitude. It is due to the fact that friction is less with height and there is no obsticales like treees, rocks, houses etc. Wind speed is messuared in knots.
+- **Wind speed** increases with altitude. It is due to the fact that friction is less with height and there is no obstacles like treees, rocks, houses etc. Wind speed is messuared in knots.
 
 <br/>
 
@@ -76,7 +76,7 @@ The Earth's atmosphere exerts (pl: wywiera) a pressure on the surface. Pressure 
 - **Veering wind** is the wind which turns clockwise with height,
 - **Backing wind** is the wind which turns anti-clockwise with height.
 
-These terms can be also used to refere wind direction change at the same height. 
+These terms can be also used to refere wind direction change at the certain height. 
 
 <br/>
 
