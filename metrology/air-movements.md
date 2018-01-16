@@ -81,7 +81,7 @@ These terms can be also used to refere wind direction change at the certain heig
 <br/>
 
 <p align="center">
-  <img width="400" src="/imgs/backing-veering.png">
+  <img width="400" src="/imgs/backing-veering.jpg">
 </p>
 
 <br/>
