@@ -61,8 +61,33 @@ The Earth's atmosphere exerts (pl: wywiera) a pressure on the surface. Pressure 
 
 <br/>
 
+# Wind
+
+- **Wind** is caused by air moving from high pressure to low pressure, usually due to changes in temperature.
+
+- **Wind direction** is reported by the direction from which it originates - a northerly wind blows from the north to the south.
+
+- **Wind speed** increases with altitude. It is due to the fact that friction is less with height and there is no obsticales like treees, rocks, houses etc. Wind speed is messuared in knots.
+
+<br/>
+
+# Veering and backing wind
+
+- **Veering wind** is the wind which turns clockwise with height,
+- **Backing wind** is the wind which turns anti-clockwise with height.
+
+These terms can be also used to refere wind direction change at the same height. 
+
+<br/>
+
+<p align="center">
+  <img width="400" src="/imgs/backing-veering.png">
+</p>
+
+<br/>
+
 # Geostrophic wind
-An air parcel initially at rest will move from high pressure to low pressure zone because of the pressure gradient force. As it moves, it is deflected by the Coriolis force to the right in the northern hemisphere. When the wind gains speed, the deflection increases until the Coriolis force equals the pressure gradient force (2000 ft). At this point, the wind will be blowing parallel to the isobars. When this happens, the wind is referred to as geostrophic.
+An air parcel initially at rest will move from high pressure to low pressure zone because of the pressure gradient force. As it moves, it is deflected by the Coriolis force to the right in the northern hemisphere. When the wind gains speed, the deflection increases until the Coriolis force equals the pressure gradient force (around 2000 ft). At this point, the wind will be blowing parallel to the isobars. When this happens, the wind is referred to as geostrophic.
 
 The geostrophic wind:
 - result from an exact balance between the Coriolis force and the pressure gradient force (this condition is called **geostrophic balance**),
