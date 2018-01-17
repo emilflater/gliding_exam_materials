@@ -17,6 +17,8 @@ to condense, therefore a drizzle (pl: mżawka) often appears along with the fog.
 - Can be considered as a type of low-lying cloud.
 - Is influenced by nearby water, topography and wind conditions. 
 
+<br/>
+
 ## Radiation Fog
 
 Arises from the radiation of heat. Usually happens during the night hours, when the weather 
