@@ -1,13 +1,15 @@
-# Dewpoint
+# Dew Point
 
-**Dewpoint**, the temperature at which air can no longer hold all the water in it,
-and the water starts to form drops.
+**Dew Point**, the temperature at which a given parcel of humid air, starts to form drops.
+
+**Frost Point**, the temperature at which a given parcel of humid air, turns into ice without 
+going through the liquid phase.
 
 <br/>
 
 # Fog
 
-**Fog** arises as a result of the condensation of water vapor at or near the Earth's surface.
+**Fog** arises as the result of the condensation of water vapor at or near the Earth's surface.
 
 The reason for condensation is lowering the temperature to the dewpoint, point at which water vapor 
 turns into water drops. A further drop in temperature causes the excess of water vapor 
