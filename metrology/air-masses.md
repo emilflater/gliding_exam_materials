@@ -34,7 +34,7 @@ There are six main types of air masses that affect the British Isles. We classif
 <br/>
 
 <p align="center">
-  <img width="800" src="/imgs/weather-fronts-types.jpg">
+  <img width="500" src="/imgs/weather-fronts-types.jpg">
 </p>
  
 <br/>
