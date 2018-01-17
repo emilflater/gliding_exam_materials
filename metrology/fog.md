@@ -1,8 +1,8 @@
-# Dew Point
+# Dew and Frost Point
 
-**Dew Point**, the temperature at which a given parcel of humid air, starts to form drops.
+- **Dew Point**, the temperature at which a given parcel of humid air, starts to form water drops.
 
-**Frost Point**, the temperature at which a given parcel of humid air, turns into ice without 
+- **Frost Point**, the temperature at which a given parcel of humid air, turns into ice without 
 going through the liquid phase.
 
 <br/>
