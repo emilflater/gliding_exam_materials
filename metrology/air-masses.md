@@ -28,7 +28,7 @@ There are six main types of air masses that affect the British Isles. We classif
 **Strength** of a front is the difference in temperature between two air masses. If very cold air comes into contact with very warm air the front is described as 'strong' or 'intense'. If there is little difference in temperature between the two air masses, the front is considered to be weak.
 
 <p align="center">
-  <a href="http://www.youtube.com/watch?v=G7Ewqm0YHUI#t=00m30s">
+  <a href="http://www.youtube.com/watch?v=G7Ewqm0YHUI#t=00m45s">
     <img width="500" src="http://img.youtube.com/vi/G7Ewqm0YHUI/0.jpg">
   </a>
 </p>
