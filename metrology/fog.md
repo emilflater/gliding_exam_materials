@@ -36,13 +36,3 @@ it reaches the dewpoint.
 - **colder seasons**, more common over land,
 - **spring and summer**, when warm air above land moves over cooler waters, fog appears above the water surface.
 
-state
-There are two types of fog formation processes: cooling the surface by radiation 
-of heat and by advection of moist air over an already cool surface. In both cases 
-air above the surface will cool to its dewpoint (RH 100%) but the way it does that 
-is different as are the circumstances surrounding it.
-
-**Advection fog** also called sea fog, is normally found at sea and caused by a warm, 
-moist airstream blowing over cooler water. This occurs principally in spring, when 
-the sea is cold and the rising sun is warming the moisture saturated winter land to 
-produce saturated air.
