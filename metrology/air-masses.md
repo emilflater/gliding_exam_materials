@@ -1,12 +1,13 @@
 # Weather front types
 
 <p align="center">
-  <img width="370" src="/imgs/weather-fronts-types.jpg">
+  <img width="340" src="/imgs/weather-fronts-types.jpg">
 </p>
 <br/>
 
+Notes:
 - **cold front**, the triangles can be thought of as icicles,
-- **warm front**, the semicircles can be thought of as half suns,
+- **warm front**, the semicircles can be thought of as half suns.
 
 <br/>
 
@@ -14,8 +15,16 @@
 
 - Cold air is advancing and pushing underneath warmer air, as the cold air is 'heavier', or more dense, than the warm air. 
 - Characterized by abrupt uplift along the frontal boundary.
+- The faster the front, the steeper the front slope.
+- Associated with dramatic shifts in weather.
 - Cumulus (flat based or anvil-shaped) development.
 - Short duration heavy rain & thunderstorms.
+- Rapid temperature decrease.
+- Rapid change in wind direction.
+- Squall line.
+- Sinking air behind the front often leads to rapidly clearing skies.
+
+After the front the weather improves rapidly with clearing skies and showery weather leading to unstable air with good visibility – **good gliding**.
 
 <p align="center">
   <img width="700" src="/imgs/cold-front.jpg">
@@ -33,8 +42,11 @@
 
 - Warm air is advancing and rising up over cold air, as warm air is 'lighter' or less dense, than cold air.
 - Characterized by gentle uplift.
-- Stratiform (stratified) cloud cover. The leading clouds, cirrus, are a good indicator of an impending change in the weather.
-- Long duration moderate rainfall.
+- Abouth half slower than the average cold front. 
+- Very gentle slope (average 1:300 vs cold front).
+- Frontal changes are less abrupt than cold air frontal passages.
+- Mostly cloudy and cold (stratiform cloud cover).
+- Long duration light to moderate rainfall, well ahead of the front.
 
 <p align="center">
   <img width="700" src="/imgs/warm-front.jpg">
@@ -50,8 +62,8 @@
 
 ## Occluded front
 
-- Are formed when a cold front overtakes a warm front (as cold front moves faster then warm front).
-- Are linked with areas of low pressure / depressions. When a depression forms, there is usually a warm front and a faster moving cold.
+- Formed when a cold front overtakes a warm front (as cold front moves faster then warm front).
+- Linked with areas of low pressure / depressions. When a depression forms, there is usually a warm front and a faster moving cold.
 - Act like both warm and cold fronts.
 - The word *occluded* can be (sort of) translated as *hidden*. When occlusion occurs, the cold front catches up with the warm front, progressively the warm air is then lifted up from the surface, and therefore *hidden*. 
 
