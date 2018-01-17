@@ -1,3 +1,3 @@
 # Bronze Exame Refresher
 
-[Metrology](metrology/index.md)
+[Metrology](metrology/README.md)
