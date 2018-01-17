@@ -26,6 +26,15 @@ There are six main types of air masses that affect the British Isles. We classif
 
 ## Weather fronts
 
-**Weather fronts** separate air masses with different density (temperature and/or moisture) characteristics. Once an air mass moves away from its source region, underlying vegetation and water bodies can quickly modify its character. Classification schemes tackle an air mass' characteristics, as well as modification.
 
 
+
+**Weather fronts** mark the boundary between two air masses, which often have contrasting properties. For example, one cold and dry and the other relatively warm and moist.
+
+<br/>
+
+<p align="center">
+  <img width="800" src="/imgs/weather-fronts-types.jpg">
+</p>
+ 
+<br/>
