@@ -8,28 +8,52 @@
 - **cold front**, the triangles can be thought of as icicles,
 - **warm front**, the semicircles can be thought of as half suns,
 
+<br/>
+
 ## Cold front
 
-Cold air is advancing and pushing underneath warmer air, as the cold air is 'heavier', or more dense, than the warm air. 
+- Cold air is advancing and pushing underneath warmer air, as the cold air is 'heavier', or more dense, than the warm air. 
+- Characterized by abrupt uplift along the frontal boundary.
+- Cumulus (flat based or anvil-shaped) development.
+- Short duration heavy rain & thunderstorms.
 
 <p align="center">
-  <img width="800" src="/imgs/cold-front.jpg">
+  <img width="700" src="/imgs/cold-front.jpg">
 </p>
+<br/>
+
+<p align="center">
+  <img width="700" src="/imgs/cold-front-2.jpg">
+</p>
+<br/>
+
 <br/>
 
 ## Warm front
 
-Warm air is advancing and rising up over cold air, as warm air is 'lighter' or less dense, than cold air.
+- Warm air is advancing and rising up over cold air, as warm air is 'lighter' or less dense, than cold air.
+- Characterized by gentle uplift.
+- Stratiform (stratified) cloud cover. The leading clouds, cirrus, are a good indicator of an impending change in the weather.
+- Long duration moderate rainfall.
 
 <p align="center">
-  <img width="800" src="/imgs/warm-front.jpg">
+  <img width="700" src="/imgs/warm-front.jpg">
 </p>
+<br/>
+
+<p align="center">
+  <img width="700" src="/imgs/warm-front-2.jpg">
+</p>
+<br/>
+
 <br/>
 
 ## Occluded front
 
 - Are formed when a cold front overtakes a warm front (as cold front moves faster then warm front).
-- Are linked with areas of low pressure / depressions. When a depression forms, there is usually a warm front and a faster moving cold  - - The word *occluded* can be (sort of) translated as *hidden*. When occlusion occurs, the cold front catches up with the warm front, progressively the warm air is then lifted up from the surface, and therefore *hidden*. 
+- Are linked with areas of low pressure / depressions. When a depression forms, there is usually a warm front and a faster moving cold.
+- Act like both warm and cold fronts.
+- The word *occluded* can be (sort of) translated as *hidden*. When occlusion occurs, the cold front catches up with the warm front, progressively the warm air is then lifted up from the surface, and therefore *hidden*. 
 
 <p align="center">
   <img width="800" src="/imgs/occluded-front.jpg">
@@ -39,7 +63,9 @@ Warm air is advancing and rising up over cold air, as warm air is 'lighter' or l
 There are two types of occlusion:
 
 - **cold occlusion**, the air mass overtaking the warm front is colder than the cool air ahead of the warm front, and plows under both air masses,
-- **warm occlusion**, the air mass overtaking the warm front is not as cold as the cold air ahead of the warm front, and rides over the colder air mass while lifting the warm air.
+- **warm occlusion**, the air mass overtaking the warm front is warmer than  the cold air ahead of the warm front, and rides over the colder air mass while lifting the warm air.
+
+
 
 
 # Air masses
