@@ -1,3 +1,40 @@
+# Air masses
+
+**Air mass** is a volume of air defined by its temperature and humidity.
+
+There are six main types of air masses that affect the British Isles. We classify them depending on:
+
+1. whether they originate over land or sea:
+    - continental (dry),
+    - maritime (moist).
+
+2. the particular region in which they form:
+   - arctic or antarctic (cold), 
+   - tropical (warm),
+   - polar (cold).
+
+<br/>
+
+<p align="center">
+  <img width="800" src="/imgs/air-masses.png">
+</p>
+ 
+<br/>
+
+# Weather fronts
+
+**Weather front** marks the boundary between two air masses, which often have contrasting properties. For example, one air mass may be cold and dry and the other relatively warm and moist.
+
+- **Strength** of a front is the difference in temperature between two air masses. If very cold air comes into contact with very warm air the front is described as 'strong' or 'intense'. If there is little difference in temperature between the two air masses, the front is considered to be weak.
+
+<p align="center">
+  <a href="http://www.youtube.com/watch?v=G7Ewqm0YHUI#t=00m30s">
+    <img width="500" src="http://img.youtube.com/vi/G7Ewqm0YHUI/0.jpg">
+  </a>
+</p>
+ 
+<br/>
+
 # Weather front types
 
 <p align="center">
@@ -5,7 +42,6 @@
 </p>
 <br/>
 
-Notes:
 - **cold front**, the triangles can be thought of as icicles,
 - **warm front**, the semicircles can be thought of as half suns.
 
@@ -23,8 +59,7 @@ Notes:
 - Rapid change in wind direction.
 - Squall line.
 - Sinking air behind the front often leads to rapidly clearing skies.
-
-After the front the weather improves rapidly with clearing skies and showery weather leading to unstable air with good visibility – **good gliding**.
+- After the front the weather improves rapidly with clearing skies and showery weather leading to unstable air with good visibility – **good gliding**.
 
 <p align="center">
   <img width="700" src="/imgs/cold-front.jpg">
@@ -78,44 +113,7 @@ There are two types of occlusion:
 - **warm occlusion**, the air mass overtaking the warm front is warmer than  the cold air ahead of the warm front, and rides over the colder air mass while lifting the warm air.
 
 
-
-
-# Air masses
-
-**Air mass** is a volume of air defined by its temperature and humidity.
-
-There are six main types of air masses that affect the British Isles. We classify them depending on:
-
-1. whether they originate over land or sea:
-    - continental (dry),
-    - maritime (moist).
-
-2. the particular region in which they form:
-   - arctic or antarctic (cold), 
-   - tropical (warm),
-   - polar (cold).
-
-<br/>
-
 <p align="center">
-  <img width="800" src="/imgs/air-masses.png">
+  <img width="700" src="/imgs/occlusion-types.jpg">
 </p>
- 
 <br/>
-
-# Weather fronts
-
-**Weather front** marks the boundary between two air masses, which often have contrasting properties. For example, one air mass may be cold and dry and the other relatively warm and moist.
-
-- **Strength** of a front is the difference in temperature between two air masses. If very cold air comes into contact with very warm air the front is described as 'strong' or 'intense'. If there is little difference in temperature between the two air masses, the front is considered to be weak.
-
-- **Worth watching**
-<p align="center">
-  <a href="http://www.youtube.com/watch?v=G7Ewqm0YHUI#t=00m30s">
-    <img width="500" src="http://img.youtube.com/vi/G7Ewqm0YHUI/0.jpg">
-  </a>
-</p>
- 
-<br/>
-
-
