@@ -25,7 +25,7 @@ There are six main types of air masses that affect the British Isles. We classif
 
 **Weather front** marks the boundary between two air masses, which often have contrasting properties. For example, one air mass may be cold and dry and the other relatively warm and moist.
 
-- **Strength** of a front is the difference in temperature between two air masses. If very cold air comes into contact with very warm air the front is described as 'strong' or 'intense'. If there is little difference in temperature between the two air masses, the front is considered to be weak.
+**Strength** of a front is the difference in temperature between two air masses. If very cold air comes into contact with very warm air the front is described as 'strong' or 'intense'. If there is little difference in temperature between the two air masses, the front is considered to be weak.
 
 <p align="center">
   <a href="http://www.youtube.com/watch?v=G7Ewqm0YHUI#t=00m30s">
@@ -107,10 +107,10 @@ There are six main types of air masses that affect the British Isles. We classif
 </p>
 <br/>
 
-There are two types of occlusion:
+### Occlusion types
 
-- **cold occlusion**, the air mass overtaking the warm front is colder than the cool air ahead of the warm front, and plows under both air masses,
-- **warm occlusion**, the air mass overtaking the warm front is warmer than  the cold air ahead of the warm front, and rides over the colder air mass while lifting the warm air.
+- **Cold occlusion**, the air mass overtaking the warm front is colder than the cool air ahead of the warm front, and plows under both air masses.
+- **Warm occlusion**, the air mass overtaking the warm front is warmer than  the cold air ahead of the warm front, and rides over the colder air mass while lifting the warm air.
 
 
 <p align="center">
