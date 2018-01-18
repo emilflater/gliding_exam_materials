@@ -18,6 +18,12 @@
 
 <br/>
 
+# Wind Gradient
+
+**Wind Gradient**, the rate of increase of wind strength with increase in height above ground level.
+
+<br/>
+
 # Veering and backing wind
 
 - **Veering wind** is the wind which turns clockwise with height,
