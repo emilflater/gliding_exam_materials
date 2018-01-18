@@ -18,9 +18,9 @@
 
 <br/>
 
-A sea breeze front has been forecast to penetrate inland beyond one of your chosen turning points. Assuming this takes place before you get there, what would be the expected weather conditions as you approach the TP?
+- A sea breeze front has been forecast to penetrate inland beyond one of your chosen turning points. Assuming this takes place before you get there, what would be the expected weather conditions as you approach the TP?
 
-- c
+- Improved at the front, but weak soaring, if any, around the TP.
 
 <br/>
 
