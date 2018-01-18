@@ -34,6 +34,12 @@ The surface temperature is 20 degrees Celsius and the trigger temperature is 24 
 
 4000 feet
 
+<br/>
+
+- In the lower atmosphere, what is regarded as being the accepted reduction of pressure with increase in height?
+
+- 1 mb per 30 feet.
+
 # Done
 
 - What effect in general, does a building high pressure system have on the level of an inversion?
