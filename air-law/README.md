@@ -1,3 +1,10 @@
+D.	HASELL ( height, airframe, security, engine, location and lookout.) 
+
+For flights above 10,000 ft amsl all pilots are recommended to use a supplementary oxygen supply with a visible contents gauge. In the event of illness in the air for any cause, a descent should be made to below 10,000 ft amsl.
+
+
+----
+
 # Right of way
 
 - **Right of way**, the aircraft on right has right of way.
@@ -39,5 +46,7 @@ join the same direction as the nearest glider (least vertical separation).
 - **Head-on**, gliders meeting head-on, alter course to the right.
 - **Right of way**, the glider with the ridge on its right has right of way.
 - **Overtaking**, a overtaking glider must pass between the other glider and the ridge.
+
+
 
 
