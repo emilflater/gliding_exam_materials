@@ -12,7 +12,27 @@
 
 <br/>
 
+- What weather associated with cumulo nimbus is considered to be the worst hazard when landing a glider?
 
+- Increased wind strength together with rapid direction changes, making landing in particular, very difficult.
+
+<br/>
+
+A sea breeze front has been forecast to penetrate inland beyond one of your chosen turning points. Assuming this takes place before you get there, what would be the expected weather conditions as you approach the TP?
+
+- c
+
+<br/>
+
+- A high pressure inversion in summer will have what effects on soaring?
+
+- Prevention of  the formation of cumulus, once the inversion is below the condensation level.
+
+<br/>
+
+The surface temperature is 20 degrees Celsius and the trigger temperature is 24 degrees Celsius. Assuming the environmental lapse rate 2 degrees C per 1000ft, the dry adiabatic lapse rate is 3 degreesC per 1000ft, assume the dew point is less than 15 degree
+
+4000 feet
 
 # Done
 
