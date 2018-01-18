@@ -1,3 +1,4 @@
+
 # Dew and Frost Point
 
 - **Dew Point**, the temperature at which a given parcel of humid air, starts to form water drops.
@@ -18,6 +19,14 @@ to condense, therefore a drizzle (pl: mżawka) often appears along with the fog.
 - Consists of suspended water droplets or ice crystals.
 - Can be considered as a type of low-lying cloud.
 - Is influenced by nearby water, topography and wind conditions. 
+
+<br/>
+
+## Fog Visibility
+
+- **fog** (pl: mgła) is a visibility of less than 1 km. 
+- **mist** (pl: zamglenie) is a visibility of between 1-2 km.
+- **haze** from 2 km (**haze** is the reflection of sunlight off air pollution / smoke).
 
 <br/>
 
