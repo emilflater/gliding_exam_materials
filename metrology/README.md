@@ -4,6 +4,8 @@
 
 [Fog](fog.md)
 
+[Other](other.md)
+
 [Pressure System](pressure-system.md)
 
 [Wind](wind.md)
