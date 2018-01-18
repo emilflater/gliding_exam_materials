@@ -40,6 +40,12 @@ The surface temperature is 20 degrees Celsius and the trigger temperature is 24 
 
 - 1 mb per 30 feet.
 
+<br/>
+
+- Whilst flying cross country you notice that the cumulus are getting larger and some have developed an anvil shape at the top. What weather is most likely to follow?
+
+- Thunder storms or rain showers leading to unsoarable areas.
+
 # Done
 
 - What effect in general, does a building high pressure system have on the level of an inversion?
