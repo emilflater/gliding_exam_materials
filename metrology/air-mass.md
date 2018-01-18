@@ -73,6 +73,17 @@ There are six main types of air masses that affect the British Isles. We classif
 
 <br/>
 
+### Squall Line
+
+**Squall line**, a line of thunderstorms forming along or ahead of a cold front. Can cause a sudden increase and shift of wind (veering) heavy rain, snow, hail, thunder and lightning.
+
+<br/>
+
+<p align="center">
+  <img width="500" src="/imgs/squall-line.jpg">
+</p>
+<br/>
+
 ## Warm front
 
 - Warm air is advancing and rising up over cold air, as warm air is 'lighter' or less dense, than cold air.
@@ -117,3 +128,5 @@ There are six main types of air masses that affect the British Isles. We classif
   <img width="700" src="/imgs/occlusion-types.jpg">
 </p>
 <br/>
+
+
