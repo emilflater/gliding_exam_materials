@@ -9,12 +9,23 @@ influence of gravity, which consequently results in transfer of heat.
 
 # Air bubbles 
 
-- **Bubbles** are formed by the heated ground, once they absorb enough heat (energy) they start to rise. As they travel up, they expand.
-Bubbles stop to rise once their temperature is equal to the surrounding air temperature.
+Formed by the heated ground, once they absorb enough heat (energy) they start to rise. As they travel up, they expand. Bubbles stop to rise once their temperature is equal to the surrounding air temperature.
+
+<br/>
+
+## Adiabatic process
 
 - **Adiabatic expansion** while bubble of heated air rises, it progressively expands and cools down (expands => less dense => temp drops).
 
 - **Adiabatic compression** while bubble of cold air sinks, it progressively shrinks and warms up (shrinks => more dense => temp rises).
+
+<br/>
+
+## Adiabatic Lapse Rate
+
+**Adiabatic Lapse Rate**, the rate at which temperature decreases with an increase in altitude.
+
+**Dry adiabatic lapse rate**, rate when the air contains little water: temperature decrease 9.8 °C/km ( 3.0 °C/1,000 ft ).
 
 <br/>
 
