@@ -1,10 +1,12 @@
 # Wind
 
+- **Wind** is the movement of a gas blowing from a particular direction.
+
 - **Wind** is caused by air moving from high pressure to low pressure, usually due to changes in temperature.
 
 - **Wind direction** is reported by the direction from which it originates - a northerly wind blows from the north to the south.
 
-- **Wind speed** increases with altitude. It is due to the fact that friction is less with height and there is no obstacles like treees, rocks, houses etc. Wind speed is messuared in knots.
+- **Wind speed** increases with altitude. Friction decreases with height and there is no obstacles like trees, rocks, houses etc. Wind speed is messuared in knots.
 
 <br/>
 
