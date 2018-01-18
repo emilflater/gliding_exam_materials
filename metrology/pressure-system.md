@@ -25,7 +25,8 @@ Formed by the heated ground, once they absorb enough heat (energy) they start to
 
 **Adiabatic Lapse Rate**, the rate at which temperature decreases with an increase in altitude.
 
-**Dry adiabatic lapse rate**, rate when the air contains little water: temperature decrease 9.8 °C/km ( 3.0 °C/1,000 ft ).
+- **dry adiabatic lapse rate**, rate when the air contains little water: temperature decrease 9.8 °C/km ( 3.0 °C/1,000 ft ).
+- **moist adiabatic lapse rate**, varies strongly with temperature, a typical value is around 5 °C/km, ( 1.5 °C/1,000 ft ).
 
 <br/>
 
