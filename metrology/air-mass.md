@@ -19,7 +19,9 @@ There are six main types of air masses that affect the British Isles. We classif
   <img width="800" src="/imgs/air-masses.png">
 </p>
 
-| Maropical | Maritime | Atlantic | warm | Brings | poor |
+<br/>
+
+| Region | Sand / See | Orginate | Temp | Humidity | Glding |
 | --- | --- | --- | --- | --- | ---|
 | Tropical | Maritime | Atlantic | warm | moist| cloud, rain, mild wheater | poor |
 | Tropical | Continental | North Africa | hot | dry | hot weather in summer | poor |
