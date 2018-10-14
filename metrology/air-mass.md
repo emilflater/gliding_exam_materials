@@ -21,8 +21,8 @@ There are six main types of air masses that affect the British Isles. We classif
 
 <br/>
 
-| Region | Land See | Orginate | Temp | Humidity | Glding |
-| --- | --- | --- | --- | --- | --- |
+| Region | Land See | Orginate | Temp | Humidity | Other | Glding |
+| --- | --- | --- | --- | --- | --- | --- |
 | Tropical | Maritime | Atlantic | warm | moist| cloud, rain, mild weather | poor |
 | Tropical | Continental | North Africa | hot | dry | hot weather in summer | poor |
 | Polar | Continental | Central Europe | cold | dry | dry summer, snow in winter, depends on sea track passage length | poor |
