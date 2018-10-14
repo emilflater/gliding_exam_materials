@@ -16,3 +16,7 @@ Minimum joint AT experience
 The sum of the tows made by the tug pilot and the glider pilot, in their respective capacities, shall not be less than six.
 
 Atmospheric pressure reduces with altitude; halving every 18,000 ft
+
+500ft - fly no closer to anything (except hill soaring, take-off, landing);
+1,500ft – above the highest fixed object within 600 metres of the aircraft
+Within 3,000ft - assembly of 1,000+ people
