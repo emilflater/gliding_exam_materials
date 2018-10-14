@@ -18,6 +18,15 @@ There are six main types of air masses that affect the British Isles. We classif
 <p align="center">
   <img width="800" src="/imgs/air-masses.png">
 </p>
+
+| Maropical | Maritime | Atlantic | warm | Brings | poor |
+| --- | --- | --- | --- | --- | ---|
+| Tropical | Maritime | Atlantic | warm | moist| cloud, rain, mild wheater | poor |
+| Tropical | Continental | North Africa | hot | dry | hot weather in summer | poor |
+| Polar | Continental | Central Europe | cold | dry | dry summer, hot winter (depend on sea track passage length) | poor |
+| Arctic | Maritime | Artic | cold | wet | snow in winter | often good (12-24 after cold front pass) |
+| Polar | Maritime | Greenland / Arctic Sea| cold | wet | cold showery cond. |  often good (12-24 after cold front pass) |
+| Polar returning | Maritime | Greenland/North Arctic Sea | mild | moist | unstable, cloud, rain showers | may be good ahead of warm front |
  
 <br/>
 
