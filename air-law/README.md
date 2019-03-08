@@ -29,7 +29,11 @@ For flights above 10,000 ft amsl all pilots are recommended to use a supplementa
 
 - **Following Roads**, aircraft following roads, railways or other lines of landmarks in the UK shall keep such landmarks on their left.
 
+# Low Flying
 
+Except with the written permission of the CAA, a glider:
+- flying over a congested area of a city town or settlement shall not fly below a height of 1,000 feet above the highest fixed obstacle within a horizontal radius of 600 metres of the glider or below such height as would permit the glider to land clear of the congested area if greater. 
+- shall neither fly over an organised open-air assembly of more than 1,000 persons below the higher of 1,000 feet or such height as would permit the glider to land clear of the assembly nor land within 1,000 metres of the assembly
 
 # Joining thermal
 
